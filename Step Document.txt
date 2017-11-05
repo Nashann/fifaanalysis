@@ -1,0 +1,4 @@
+Steps Document:
+1) Load Executor.R in R studio
+2) Provide FIFA.csv file path in the dialog box.
+3) Run all the lines one by one.
